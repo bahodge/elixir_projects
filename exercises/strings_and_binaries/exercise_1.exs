@@ -16,7 +16,6 @@ defmodule Exercise1 do
     def word(str), do: _word_letters(str, 0)
 
     defp _word_letters([], value), do: value
-
     defp _word_letters([ letter | tail ], value) when letter not in '0123456789' do
         _word_letters(tail, letter)
     end
