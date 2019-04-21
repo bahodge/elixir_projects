@@ -46,9 +46,9 @@ defmodule FibSolver do
   defp _fib_calc(n), do: _fib_calc(n - 1) + _fib_calc(n - 2)
 end
 
-to_process = [37, 37, 37, 37, 37, 37]
+to_process = [20, 37, 20, 37, 37, 37]
 
-Enum.each(1..100, fn num_processes ->
+Enum.each(1..10, fn num_processes ->
   {time, result} =
     :timer.tc(
       Scheduler,
