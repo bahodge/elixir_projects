@@ -16,4 +16,3 @@ defmodule BitcoinFetcher do
     :world
   end
 end
-

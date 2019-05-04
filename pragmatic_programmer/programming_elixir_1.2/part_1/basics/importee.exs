@@ -1,7 +1,5 @@
 defmacro Importee do
-    
-    def hello do
-        IO.puts "World"
-    end
-
+  def hello do
+    IO.puts("World")
+  end
 end

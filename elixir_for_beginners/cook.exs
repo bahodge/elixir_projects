@@ -1,5 +1,4 @@
 defmodule Cook do
-
   # # Public Function
   # def cook(meat, veg), do: _cook("Grill", meat) <> _cook("Boil", veg)
 
@@ -17,10 +16,9 @@ defmodule Cook do
   # def cook(type, food), do: "#{type} #{food}"
 
   # def cook(type \\ "Grill", food), do: "#{type} #{food}"
-
 end
 
-IO.puts String.upcase("ben") |> String.reverse
+IO.puts(String.upcase("ben") |> String.reverse())
 
 # IO.inspect(Cook.cook("chicken"))
 

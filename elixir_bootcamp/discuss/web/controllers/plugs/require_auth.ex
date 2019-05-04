@@ -4,9 +4,7 @@ defmodule Discuss.Plugs.RequireAuth do
 
   alias Discuss.Router.Helpers
 
-
   def init(_params) do
-
   end
 
   def call(conn, _params) do
@@ -19,5 +17,4 @@ defmodule Discuss.Plugs.RequireAuth do
       |> halt()
     end
   end
-
 end
