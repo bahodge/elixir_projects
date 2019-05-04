@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e5c508e-6236-45be-a66d-db16dfc827de" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/manning/elixir_in_action/the_platform/ch_05/database_server1.ex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manning/elixir_in_action/the_platform/ch_05/database_server2.ex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/elixir_casts/bitcoin_fetcher/assets/node_modules/phoenix/" />
@@ -78,11 +80,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manning/elixir_in_action/the_platform/ch_05/database_server1.ex">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="4" selection-start-column="4" selection-end-column="4" />
+            <state relative-caret-position="50">
+              <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/manning/elixir_in_action/the_platform/ch_05/database_server2.ex">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" column="39" lean-forward="true" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -102,6 +113,8 @@
         <option value="$PROJECT_DIR$/manning/elixir_in_action/the_language/ch_04/todo_list4.ex" />
         <option value="$PROJECT_DIR$/manning/elixir_in_action/the_language/ch_04/todo_list5.ex" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/manning/elixir_in_action/the_platform/ch_05/database_server1.ex" />
+        <option value="$PROJECT_DIR$/manning/elixir_in_action/the_platform/ch_05/database_server2.ex" />
       </list>
     </option>
   </component>
@@ -137,6 +150,21 @@
               <item name="manning" type="462c0819:PsiDirectoryNode" />
               <item name="elixir_in_action" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="elixir_projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elixir_projects" type="462c0819:PsiDirectoryNode" />
+              <item name="manning" type="462c0819:PsiDirectoryNode" />
+              <item name="elixir_in_action" type="462c0819:PsiDirectoryNode" />
+              <item name="the_platform" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elixir_projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elixir_projects" type="462c0819:PsiDirectoryNode" />
+              <item name="manning" type="462c0819:PsiDirectoryNode" />
+              <item name="elixir_in_action" type="462c0819:PsiDirectoryNode" />
+              <item name="the_platform" type="462c0819:PsiDirectoryNode" />
+              <item name="ch_05" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -148,7 +176,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/manning/elixir_in_action/the_language/ch_04" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/manning/elixir_in_action/the_platform/ch_05" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.settings.patched" value="true" />
@@ -156,6 +184,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/manning/elixir_in_action/the_platform/ch_05" />
       <recent name="$PROJECT_DIR$/manning/elixir_in_action/the_language/ch_04" />
     </key>
   </component>
@@ -182,25 +211,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556936611887</updated>
-      <workItem from="1556936617277" duration="4442000" />
+      <workItem from="1556936617277" duration="6666000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4442000" />
+    <option name="totallyTimeSpent" value="6666000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="70" y="27" width="1850" height="1053" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="GraphQL" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.6666667" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.21816169" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -284,9 +313,26 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pragmatic_programmer/programming_elixir_1.2/part_2/process_overhead/chain.ex">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="4" selection-start-column="4" selection-end-column="4" />
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manning/elixir_in_action/the_platform/ch_05/database_server1.ex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manning/elixir_in_action/the_platform/ch_05/database_server2.ex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="39" lean-forward="true" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
         </state>
       </provider>
     </entry>
