@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e5c508e-6236-45be-a66d-db16dfc827de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/elixir_projects.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manning/elixir_in_action/the_language/ch_04/todo_list1.ex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manning/elixir_in_action/the_language/ch_04/todo_list2.ex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manning/elixir_in_action/the_language/ch_04/todo_list3.ex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manning/elixir_in_action/the_language/ch_04/todo_list4.ex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manning/elixir_in_action/the_language/ch_04/todo_list5.ex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/elixir_casts/bitcoin_fetcher/assets/node_modules/phoenix/" />
     <ignored path="$PROJECT_DIR$/elixir_casts/bitcoin_fetcher/assets/node_modules/phoenix_html/" />
@@ -86,47 +78,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/manning/elixir_in_action/the_language/ch_04/todo_list1.ex">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/manning/elixir_in_action/the_language/ch_04/todo_list2.ex">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/manning/elixir_in_action/the_language/ch_04/todo_list3.ex">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="21" selection-start-column="21" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/manning/elixir_in_action/the_language/ch_04/todo_list4.ex">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/manning/elixir_in_action/the_language/ch_04/todo_list5.ex">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+              <caret column="4" selection-start-column="4" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -145,6 +101,7 @@
         <option value="$PROJECT_DIR$/manning/elixir_in_action/the_language/ch_04/todo_list3.ex" />
         <option value="$PROJECT_DIR$/manning/elixir_in_action/the_language/ch_04/todo_list4.ex" />
         <option value="$PROJECT_DIR$/manning/elixir_in_action/the_language/ch_04/todo_list5.ex" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -179,21 +136,6 @@
               <item name="elixir_projects" type="462c0819:PsiDirectoryNode" />
               <item name="manning" type="462c0819:PsiDirectoryNode" />
               <item name="elixir_in_action" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="elixir_projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="elixir_projects" type="462c0819:PsiDirectoryNode" />
-              <item name="manning" type="462c0819:PsiDirectoryNode" />
-              <item name="elixir_in_action" type="462c0819:PsiDirectoryNode" />
-              <item name="the_language" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="elixir_projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="elixir_projects" type="462c0819:PsiDirectoryNode" />
-              <item name="manning" type="462c0819:PsiDirectoryNode" />
-              <item name="elixir_in_action" type="462c0819:PsiDirectoryNode" />
-              <item name="the_language" type="462c0819:PsiDirectoryNode" />
-              <item name="ch_04" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -240,25 +182,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556936611887</updated>
-      <workItem from="1556936617277" duration="1725000" />
+      <workItem from="1556936617277" duration="4442000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1725000" />
+    <option name="totallyTimeSpent" value="4442000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="70" y="27" width="1850" height="1053" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="GraphQL" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32890365" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.6666667" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -272,6 +214,28 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" />
+      <window_info anchor="bottom" id="GraphQL" order="1" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="2" visible="true" weight="0.32890365" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="bottom" id="Run" order="8" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -287,7 +251,7 @@
     <entry file="file://$PROJECT_DIR$/manning/elixir_in_action/the_language/ch_04/todo_list2.ex">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
-          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -314,8 +278,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/manning/elixir_in_action/the_language/ch_04/todo_list5.ex">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        <state relative-caret-position="275">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
         </state>
       </provider>
     </entry>
