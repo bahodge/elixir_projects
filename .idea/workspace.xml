@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e5c508e-6236-45be-a66d-db16dfc827de" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/elixir_projects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manning/elixir_in_action/the_language/ch_04/todo_list1.ex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manning/elixir_in_action/the_language/ch_04/todo_list2.ex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manning/elixir_in_action/the_language/ch_04/todo_list3.ex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manning/elixir_in_action/the_language/ch_04/todo_list4.ex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manning/elixir_in_action/the_language/ch_04/todo_list5.ex" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/elixir_casts/bitcoin_fetcher/assets/node_modules/phoenix/" />
+    <ignored path="$PROJECT_DIR$/elixir_casts/bitcoin_fetcher/assets/node_modules/phoenix_html/" />
+    <ignored path="$PROJECT_DIR$/elixir_casts/bitcoin_fetcher/cover/" />
+    <ignored path="$PROJECT_DIR$/elixir_casts/bitcoin_fetcher/deps/" />
+    <ignored path="$PROJECT_DIR$/elixir_casts/bitcoin_fetcher/doc/" />
+    <ignored path="$PROJECT_DIR$/elixir_casts/bitcoin_fetcher/logs/" />
+    <ignored path="$PROJECT_DIR$/elixir_for_beginners/caesar/assets/node_modules/phoenix/" />
+    <ignored path="$PROJECT_DIR$/elixir_for_beginners/caesar/assets/node_modules/phoenix_html/" />
+    <ignored path="$PROJECT_DIR$/elixir_for_beginners/caesar/cover/" />
+    <ignored path="$PROJECT_DIR$/elixir_for_beginners/caesar/deps/" />
+    <ignored path="$PROJECT_DIR$/elixir_for_beginners/caesar/doc/" />
+    <ignored path="$PROJECT_DIR$/elixir_for_beginners/caesar/logs/" />
+    <ignored path="$PROJECT_DIR$/tensor_elixir_tutorial/calculator/assets/node_modules/phoenix/" />
+    <ignored path="$PROJECT_DIR$/tensor_elixir_tutorial/calculator/assets/node_modules/phoenix_html/" />
+    <ignored path="$PROJECT_DIR$/tensor_elixir_tutorial/calculator/cover/" />
+    <ignored path="$PROJECT_DIR$/tensor_elixir_tutorial/calculator/deps/" />
+    <ignored path="$PROJECT_DIR$/tensor_elixir_tutorial/calculator/doc/" />
+    <ignored path="$PROJECT_DIR$/tensor_elixir_tutorial/calculator/logs/" />
+    <ignored path="$PROJECT_DIR$/elixir_bootcamp/cards/assets/node_modules/phoenix/" />
+    <ignored path="$PROJECT_DIR$/elixir_bootcamp/cards/assets/node_modules/phoenix_html/" />
+    <ignored path="$PROJECT_DIR$/elixir_bootcamp/cards/cover/" />
+    <ignored path="$PROJECT_DIR$/elixir_bootcamp/cards/deps/" />
+    <ignored path="$PROJECT_DIR$/elixir_bootcamp/cards/doc/" />
+    <ignored path="$PROJECT_DIR$/elixir_bootcamp/cards/logs/" />
+    <ignored path="$PROJECT_DIR$/tensor_elixir_tutorial/chat/assets/node_modules/phoenix/" />
+    <ignored path="$PROJECT_DIR$/tensor_elixir_tutorial/chat/assets/node_modules/phoenix_html/" />
+    <ignored path="$PROJECT_DIR$/tensor_elixir_tutorial/chat/cover/" />
+    <ignored path="$PROJECT_DIR$/tensor_elixir_tutorial/chat/deps/" />
+    <ignored path="$PROJECT_DIR$/tensor_elixir_tutorial/chat/doc/" />
+    <ignored path="$PROJECT_DIR$/tensor_elixir_tutorial/chat/logs/" />
+    <ignored path="$PROJECT_DIR$/elixir_bootcamp/discuss/assets/node_modules/phoenix/" />
+    <ignored path="$PROJECT_DIR$/elixir_bootcamp/discuss/assets/node_modules/phoenix_html/" />
+    <ignored path="$PROJECT_DIR$/elixir_bootcamp/discuss/cover/" />
+    <ignored path="$PROJECT_DIR$/elixir_bootcamp/discuss/deps/" />
+    <ignored path="$PROJECT_DIR$/elixir_bootcamp/discuss/doc/" />
+    <ignored path="$PROJECT_DIR$/elixir_bootcamp/discuss/logs/" />
+    <ignored path="$PROJECT_DIR$/tensor_elixir_tutorial/gencounter/assets/node_modules/phoenix/" />
+    <ignored path="$PROJECT_DIR$/tensor_elixir_tutorial/gencounter/assets/node_modules/phoenix_html/" />
+    <ignored path="$PROJECT_DIR$/tensor_elixir_tutorial/gencounter/cover/" />
+    <ignored path="$PROJECT_DIR$/tensor_elixir_tutorial/gencounter/deps/" />
+    <ignored path="$PROJECT_DIR$/tensor_elixir_tutorial/gencounter/doc/" />
+    <ignored path="$PROJECT_DIR$/tensor_elixir_tutorial/gencounter/logs/" />
+    <ignored path="$PROJECT_DIR$/elixir_bootcamp/identicon/assets/node_modules/phoenix/" />
+    <ignored path="$PROJECT_DIR$/elixir_bootcamp/identicon/assets/node_modules/phoenix_html/" />
+    <ignored path="$PROJECT_DIR$/elixir_bootcamp/identicon/cover/" />
+    <ignored path="$PROJECT_DIR$/elixir_bootcamp/identicon/deps/" />
+    <ignored path="$PROJECT_DIR$/elixir_bootcamp/identicon/doc/" />
+    <ignored path="$PROJECT_DIR$/elixir_bootcamp/identicon/logs/" />
+    <ignored path="$PROJECT_DIR$/pragmatic_programmer/programming_elixir_1.2/part_1/projects/issues/assets/node_modules/phoenix/" />
+    <ignored path="$PROJECT_DIR$/pragmatic_programmer/programming_elixir_1.2/part_1/projects/issues/assets/node_modules/phoenix_html/" />
+    <ignored path="$PROJECT_DIR$/pragmatic_programmer/programming_elixir_1.2/part_1/projects/issues/cover/" />
+    <ignored path="$PROJECT_DIR$/pragmatic_programmer/programming_elixir_1.2/part_1/projects/issues/deps/" />
+    <ignored path="$PROJECT_DIR$/pragmatic_programmer/programming_elixir_1.2/part_1/projects/issues/doc/" />
+    <ignored path="$PROJECT_DIR$/pragmatic_programmer/programming_elixir_1.2/part_1/projects/issues/logs/" />
+    <ignored path="$PROJECT_DIR$/pragmatic_programmer/programming_elixir_1.2/part_2/projects/sequence/assets/node_modules/phoenix/" />
+    <ignored path="$PROJECT_DIR$/pragmatic_programmer/programming_elixir_1.2/part_2/projects/sequence/assets/node_modules/phoenix_html/" />
+    <ignored path="$PROJECT_DIR$/pragmatic_programmer/programming_elixir_1.2/part_2/projects/sequence/cover/" />
+    <ignored path="$PROJECT_DIR$/pragmatic_programmer/programming_elixir_1.2/part_2/projects/sequence/deps/" />
+    <ignored path="$PROJECT_DIR$/pragmatic_programmer/programming_elixir_1.2/part_2/projects/sequence/doc/" />
+    <ignored path="$PROJECT_DIR$/pragmatic_programmer/programming_elixir_1.2/part_2/projects/sequence/logs/" />
+    <ignored path="$PROJECT_DIR$/pragmatic_programmer/programming_elixir_1.2/part_2/projects/sequence1/assets/node_modules/phoenix/" />
+    <ignored path="$PROJECT_DIR$/pragmatic_programmer/programming_elixir_1.2/part_2/projects/sequence1/assets/node_modules/phoenix_html/" />
+    <ignored path="$PROJECT_DIR$/pragmatic_programmer/programming_elixir_1.2/part_2/projects/sequence1/cover/" />
+    <ignored path="$PROJECT_DIR$/pragmatic_programmer/programming_elixir_1.2/part_2/projects/sequence1/deps/" />
+    <ignored path="$PROJECT_DIR$/pragmatic_programmer/programming_elixir_1.2/part_2/projects/sequence1/doc/" />
+    <ignored path="$PROJECT_DIR$/pragmatic_programmer/programming_elixir_1.2/part_2/projects/sequence1/logs/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manning/elixir_in_action/the_language/ch_04/todo_list1.ex">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manning/elixir_in_action/the_language/ch_04/todo_list2.ex">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manning/elixir_in_action/the_language/ch_04/todo_list3.ex">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="21" selection-start-column="21" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manning/elixir_in_action/the_language/ch_04/todo_list4.ex">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/manning/elixir_in_action/the_language/ch_04/todo_list5.ex">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/manning/elixir_in_action/the_language/ch_04/to_do_list.ex" />
+        <option value="$PROJECT_DIR$/manning/elixir_in_action/the_language/ch_04/todo_list1.ex" />
+        <option value="$PROJECT_DIR$/manning/elixir_in_action/the_language/ch_04/todo_list2.ex" />
+        <option value="$PROJECT_DIR$/manning/elixir_in_action/the_language/ch_04/todo_list3.ex" />
+        <option value="$PROJECT_DIR$/manning/elixir_in_action/the_language/ch_04/todo_list4.ex" />
+        <option value="$PROJECT_DIR$/manning/elixir_in_action/the_language/ch_04/todo_list5.ex" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="70" />
+    <option name="y" value="27" />
+    <option name="width" value="925" />
+    <option name="height" value="1053" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="elixir_projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elixir_projects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elixir_projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elixir_projects" type="462c0819:PsiDirectoryNode" />
+              <item name="manning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elixir_projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elixir_projects" type="462c0819:PsiDirectoryNode" />
+              <item name="manning" type="462c0819:PsiDirectoryNode" />
+              <item name="elixir_in_action" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elixir_projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elixir_projects" type="462c0819:PsiDirectoryNode" />
+              <item name="manning" type="462c0819:PsiDirectoryNode" />
+              <item name="elixir_in_action" type="462c0819:PsiDirectoryNode" />
+              <item name="the_language" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elixir_projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elixir_projects" type="462c0819:PsiDirectoryNode" />
+              <item name="manning" type="462c0819:PsiDirectoryNode" />
+              <item name="elixir_in_action" type="462c0819:PsiDirectoryNode" />
+              <item name="the_language" type="462c0819:PsiDirectoryNode" />
+              <item name="ch_04" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/manning/elixir_in_action/the_language/ch_04" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.settings.patched" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/manning/elixir_in_action/the_language/ch_04" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e5c508e-6236-45be-a66d-db16dfc827de" name="Default Changelist" comment="" />
+      <created>1556936611887</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556936611887</updated>
+      <workItem from="1556936617277" duration="1725000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1725000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="70" y="27" width="1850" height="1053" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="GraphQL" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32890365" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/manning/elixir_in_action/the_language/ch_02/circle1.ex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manning/elixir_in_action/the_language/ch_04/todo_list2.ex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manning/elixir_in_action/the_language/ch_04/todo_list3.ex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manning/elixir_in_action/the_language/ch_04/todo_list4.ex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manning/elixir_in_action/the_language/ch_04/todo_list1.ex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manning/elixir_in_action/the_language/ch_04/todo_list5.ex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
