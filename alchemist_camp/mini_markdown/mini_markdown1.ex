@@ -1,15 +1,14 @@
 defmodule MiniMarkdown do
-
-	def run do
-		test_string() |> to_html
-	end
+  def run do
+    test_string() |> to_html
+  end
 
   def to_html(text) do
     text
-		|> p
-		|> bold
-		|> italics
-		|> output_to_file
+    |> p
+    |> bold
+    |> italics
+    |> output_to_file
   end
 
   def italics(text) do
@@ -33,7 +32,7 @@ defmodule MiniMarkdown do
     """
   end
 
-	def output_to_file(text) do
-		File.write("./mini_markdown.html", text)
-	end
+  def output_to_file(text) do
+    File.write("./mini_markdown.html", text)
+  end
 end
