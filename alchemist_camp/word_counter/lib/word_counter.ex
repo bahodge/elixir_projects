@@ -1,7 +1,6 @@
 defmodule WordCounter do
-
   def start(parsed, file, invalid) do
-    if (invalid != []) or (file == "h") do
+    if invalid != [] or file == "h" do
       show_help()
     else
       read_file(parsed, file)
