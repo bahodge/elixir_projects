@@ -1,9 +1,9 @@
-defmodule AlchemyMarkdown.MixProject do
+defmodule StatWatch.MixProject do
   use Mix.Project
 
   def project do
     [
-      app: :alchemy_markdown,
+      app: :stat_watch,
       version: "0.1.0",
       elixir: "~> 1.8",
       start_permanent: Mix.env() == :prod,
@@ -14,12 +14,15 @@ defmodule AlchemyMarkdown.MixProject do
   # Run "mix help compile.app" to learn about applications.
   def application do
     [
-      extra_applications: [:logger]
+      extra_applications: [:logger, :httpoison]
     ]
   end
 
   # Run "mix help deps" to learn about dependencies.
   defp deps do
-    [{:earmark, "~>1.3.2"}, {:dialyxir, "~> 0.5", only: [:dev], runtime: false}]
+    [
+      {:httpoison, "~> 1.4"},
+      {:poison, "~> 3.1"}
+    ]
   end
 end

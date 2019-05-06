@@ -21,6 +21,11 @@ defmodule AlchemyMarkdown do
     Regex.replace(~r/^([-*])\s*\1\s*\1/m, text, "<hr />")
   end
 
+  def run_anon_func do
+#    raise "oops"
+    Enum.each([1,2,3], fn x -> IO.puts x end)
+  end
+
   def test_string do
     """
     # Hello, h1
