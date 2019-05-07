@@ -18,6 +18,4 @@ defmodule DatabaseServer do
     :timer.sleep(2000)
     "#{query_def} result"
   end
-
-
 end

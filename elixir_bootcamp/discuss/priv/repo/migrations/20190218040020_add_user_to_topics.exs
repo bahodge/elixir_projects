@@ -3,8 +3,7 @@ defmodule Discuss.Repo.Migrations.AddUserToTopics do
 
   def change do
     alter table(:topics) do
-      add :user_id, references(:users)
+      add(:user_id, references(:users))
     end
-
   end
 end

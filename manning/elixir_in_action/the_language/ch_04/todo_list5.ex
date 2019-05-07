@@ -8,5 +8,4 @@ defmodule TodoList do
   def entries(todo_list, date) do
     MultiDict.get(todo_list, date)
   end
-
 end

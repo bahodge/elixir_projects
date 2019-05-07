@@ -8,6 +8,4 @@ defmodule MultiDict do
   def get(dict, key) do
     HashDict.get(dict, key, [])
   end
-
-
 end
