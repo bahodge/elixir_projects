@@ -3,7 +3,7 @@ defmodule DatabaseServer do
     spawn(&loop/0)
   end
 
-  def run_asyn(server_pid, query_def) do
+  def run_async(server_pid, query_def) do
     send(server_pid, {:run_query, self(), query_def})
   end
 
