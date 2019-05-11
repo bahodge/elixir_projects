@@ -17,11 +17,11 @@ defmodule Campsite.Application do
     route4 = {"/upupdowndownleftrightleftrightba", Campsite.Web.PageHandler, :secret}
     others = {:_, Campsite.Web.PageHandler, :others}
     dispatch = :cowboy_router.compile([{:_, [route1, route2, route3, route4, others]}])
-    opts = [port: 4000]
+    opts = [port: 8080]
     env = [dispatch: dispatch]
 
     case :cowboy.start_http(:http, 10, opts, env: env) do
-      {:ok, _pid} -> IO.puts("Cowboy is now running. go to http://localhost:4000")
+      {:ok, _pid} -> IO.puts("Cowboy is now running. go to http://localhost:8080")
       _ -> IO.puts("There was a problem starting cowboy")
     end
   end
