@@ -2,7 +2,7 @@ defmodule Fib do
   def time(func, arg) do
     t0 = Time.utc_now()
     func.(arg)
-    Time.diff(Time.utc_now(), t0, :millisecond)
+    Time.diff(Time.utc_now(), t0, :nanoseconds)
   end
 
   def compare(n \\ 40) do
