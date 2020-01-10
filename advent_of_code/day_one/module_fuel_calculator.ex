@@ -1,4 +1,4 @@
-defmodule CounterUpper do
+defmodule ModuleFuelCalculator do
   def calculate! do
     puzzle_input |> calculate_all_fuel
   end
